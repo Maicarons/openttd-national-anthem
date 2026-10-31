@@ -1,6 +1,0 @@
-1.0 (initial release)
-  * Deduplicated 163 source MIDI files down to 162 unique anthems.
-  * Normalised filenames to ISO 3166-1 alpha-2 codes.
-  * Wired 31 anthems into OpenTTD's playable music slots.
-  * Removed byte-identical duplicate (Guinea-Bissau == Cape Verde).
-  * Retained Estonia & Finland (shared Pacius melody, distinct countries).
