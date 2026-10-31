@@ -1,0 +1,49 @@
+{
+  "total_files": 163,
+  "exact_duplicate_groups": {
+    "e841861fc3ab4772afb9a3023ad88eb2": [
+      "CapeVerde.mid",
+      "guinbiss.mid"
+    ],
+    "5c15b133f8e902f48f5883971a0f62cd": [
+      "estonia.mid",
+      "finland.mid"
+    ]
+  },
+  "near_pairs": [
+    [
+      "CapeVerde.mid",
+      "guinbiss.mid",
+      1.0
+    ],
+    [
+      "estonia.mid",
+      "finland.mid",
+      1.0
+    ]
+  ],
+  "duplicate_clusters": {
+    "CapeVerde.mid": [
+      "CapeVerde.mid",
+      "guinbiss.mid"
+    ],
+    "estonia.mid": [
+      "estonia.mid",
+      "finland.mid"
+    ]
+  },
+  "canonical_keep": {
+    "guinbiss.mid": [
+      "CapeVerde.mid",
+      "guinbiss.mid"
+    ],
+    "estonia.mid": [
+      "estonia.mid",
+      "finland.mid"
+    ]
+  },
+  "removed": [
+    "CapeVerde.mid",
+    "finland.mid"
+  ]
+}
